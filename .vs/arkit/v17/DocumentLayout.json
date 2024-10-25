@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\services-2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services-2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\contact.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\blog-grid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog-grid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\services-1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services-1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\css\\responsive.css",
+              "RelativeDocumentMoniker": "css\\responsive.css",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\css\\responsive.css",
+              "RelativeToolTip": "css\\responsive.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-20T17:44:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "about-us.html",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\about-us.html",
+              "RelativeDocumentMoniker": "about-us.html",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\about-us.html",
+              "RelativeToolTip": "about-us.html",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T17:44:30.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "services-2.html",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\services-2.html",
+              "RelativeDocumentMoniker": "services-2.html",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\services-2.html",
+              "RelativeToolTip": "services-2.html",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T16:50:29.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAD4CAAAAAAAAAAAkwEcCAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T16:48:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contact.php",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\contact.php",
+              "RelativeDocumentMoniker": "contact.php",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\contact.php",
+              "RelativeToolTip": "contact.php",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-10-19T19:13:25.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "services-1.html",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\services-1.html",
+              "RelativeDocumentMoniker": "services-1.html",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\services-1.html",
+              "RelativeToolTip": "services-1.html",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-19T12:53:21.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\css\\main.css",
+              "RelativeDocumentMoniker": "css\\main.css",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\css\\main.css",
+              "RelativeToolTip": "css\\main.css",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAAAI8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-19T12:48:26.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "blog-grid.html",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\blog-grid.html",
+              "RelativeDocumentMoniker": "blog-grid.html",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\arkit-architecture-interior-html-template-2023-11-27-05-09-25-utc\\Master Files\\arkit\\blog-grid.html",
+              "RelativeToolTip": "blog-grid.html",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T20:22:50.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
